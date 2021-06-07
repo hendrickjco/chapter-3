@@ -92,3 +92,30 @@
     border-top: -50px;
     display: grid;
 }
+
+.specialfeatures {
+    color: rgb(255, 255, 255);
+    align-items: stretch;
+    text-align: start;
+    font-size: 24px;
+    justify-self: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.featurestxt {
+    font-size: 56px;
+    color: #fff;
+}
+
+.traditionalfeatures {
+    color: rgb(236, 178, 17);
+    align-items: flex-end;
+    display: flexbox;
+}
+
+.tarditionalcontainer {
+    height: 100px 100px;
+    text-align: center;
+    display: flex;
+}
